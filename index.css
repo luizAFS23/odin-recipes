@@ -7,5 +7,19 @@ body{
     font-weight: 800;
     border: 2px solid;
     text-align: center;
-    
+    background-color: rgb(6, 197, 6);
+}
+
+
+.container-deep-fried-oreos{
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+}
+
+
+.heart{
+    width: 40px;
+    height: auto;
+    float: right;
 }
