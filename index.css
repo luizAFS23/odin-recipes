@@ -5,12 +5,13 @@ body{
 .title-container{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .a-container{
-    margin-top: 27px;
     display: flex;
     gap: 8px;
+    align-items: center;
 }
 
 .a-container a{
