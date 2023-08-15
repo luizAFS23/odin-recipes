@@ -10,6 +10,7 @@ body{
 .a-container{
     margin-top: 27px;
     display: flex;
+    gap: 8px;
 }
 
 .a-container a{
