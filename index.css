@@ -50,8 +50,13 @@ body{
 
 
 .heart{
-    width: 40px;
-    height: auto;
+    width: 45px;
+    height: 45px;
     float: right;
+    margin-top: 15px;
 }
 
+.ingredients{
+    border: 2px solid black;
+    text-align: center;
+}
